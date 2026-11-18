@@ -1,0 +1,10 @@
+# course data is not published
+*.hyper
+*.twbx
+*.tflx
+*.xls
+*.xlsx
+*.csv
+Data/
+__pycache__/
+*.pyc
